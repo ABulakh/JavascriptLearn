@@ -27,3 +27,5 @@ for (let i = 1; i < 8; i++) {
   }
   console.log(i);
 }
+
+/* Не путать с медовами перебора Foraech, map и т д */
